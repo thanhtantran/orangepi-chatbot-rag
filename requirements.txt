@@ -1,0 +1,11 @@
+openai
+langchain
+chromadb
+pypdf
+python-dotenv
+streamlit
+sentence-transformers
+langchain-community
+langchain
+huggingface_hub[hf_xet]
+transformers
